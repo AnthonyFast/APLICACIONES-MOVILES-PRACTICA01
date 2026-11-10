@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practica01</string>
+    <string name="welcome_title">Bienvenido</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="footer_text">UTEQ 2026</string>
+    <string name="desc_logo_uteq">Logo UTEQ</string>
+    <string name="desc_logo_facultad">Logo Facultad Ciencias de la Computación</string>
+    <string name="login_title">Inicio de Sesión</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="desc_menu_fab">Menú</string>
+</resources>
